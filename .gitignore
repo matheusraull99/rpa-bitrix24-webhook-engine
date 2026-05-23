@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+*.zip
+runs/
+.pytest_cache/
+.idea/
+.vscode/
